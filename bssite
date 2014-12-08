@@ -12,8 +12,6 @@ position:relative !important;
 }
 
 .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.noTitleStuff.ui-draggable {
-left: 57% !important;
-
 }
 .ticket-auth-dialog-close {
 display:none !important;
